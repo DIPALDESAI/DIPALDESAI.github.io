@@ -19,4 +19,4 @@ Don’t worry I am not going to share hundred links which we almost certainly sk
 * Tech war/collision/conflict of interest.
 * The best Article
 
-If you want to read more click [Here](https://medium.com/@bhatt.shashwat/things-i-have-learned-this-month-bb1c5cc46e43#.rj36c967q)
+If you want to read more click [Here](https://medium.com/@bhatt.shashwat/things-i-have-learned-this-month-bb1c5cc46e43#.rj36c967q){:target='_blank'}
